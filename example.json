@@ -1,0 +1,22 @@
+{
+  "First Sample": [
+    "First Sample",
+    "http://localhost:9999/test1.txt",
+    "downloads/FirstSample.txt"
+  ],
+  "Second Sample": [
+    "Second Sample",
+    "http://localhost:9999/test2.txt",
+    "downloads/SecondSample.txt"
+  ],
+  "Third Sample": [
+    "Third Sample",
+    "http://localhost:9999/test3.txt",
+    "downloads/ThirdSample.txt"
+  ],
+  "Fourth Sample": [
+    "Fourth Sample",
+    "http://localhost:9999/test4.txt",
+    "downloads/FourthSample.txt"
+  ]
+}
